@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    background-size: cover;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+    font-size: 20px;
+}
+hr{
+    border-color: burlywood;
+    border-width: 2px;
+}
+button{
+  background-color: burlywood;
+  border:none;
+  color:white;
+  padding:5px 5px;
+}
+.carousel-control-prev{
+background-color: burlywood;
+width: 40px;
+height: 40px;
+margin-top: 35px;
+margin-left: 198vh;
+}
+.carousel-control-next{
+background-color: burlywood;
+width: 40px;
+height: 40px;
+margin-top: 35px;
+}
